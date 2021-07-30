@@ -1,8 +1,11 @@
-## String manipulation in Java: Inserting characters in a string
+## Inserting characters to a String in Java
 
-# String manipulation in Java: Inserting characters in a string
+# Inserting characters to a String in Java
 
-## My problem
+## The goal of this post
+I am writing this post to clarify the solution to a particular problem I had, so that next time I run into the same problem I already have a solution. 
+
+## The problem I had
 I wanted to format a phone number string.  
 E.g. `"11122223333"` to `"111-2222-3333"`
 
@@ -21,7 +24,7 @@ String result = new StringBuilder("11122223333")
 // 111-2222-3333
 ```
 
-## My solution
+## The solution I came up with
 I worked through the problem in the following order:
 1. How do you insert a character at an index of a string?
 2. How do you insert characters at multiple indexes of a string?
