@@ -1,7 +1,5 @@
 ## The weird quirk of logging with console.log in JavaScript
 
-# The weird quirk of logging with console.log in JavaScript
-
 ## The goal of this post
 I want to clarify what happens with console.log on certain conditions so that I can log in my intended way.
 
