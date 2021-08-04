@@ -1,7 +1,5 @@
 ## Inserting characters to a String in Java
 
-# Inserting characters to a String in Java
-
 ## The goal of this post
 I am writing this post to clarify the solution to a particular problem I had, so that next time I run into the same problem I already have a solution. 
 
