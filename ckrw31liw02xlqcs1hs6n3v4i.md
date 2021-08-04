@@ -1,6 +1,5 @@
 ## Text selection between symbols in vim
 
-# Text selection between symbols in vim
 I love vim, and I always use either vim in a terminal or a vim emulator in my IDE. One of the commands I use most frequently is the text selection between symbols.
 
 ## Using `vib` to select text inside between parenthesis
