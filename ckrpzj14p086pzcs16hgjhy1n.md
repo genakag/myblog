@@ -1,7 +1,5 @@
 ## Date comparison in Java using LocalDate
 
-# Date comparison in Java using LocalDate
-
 ## The goal of this post
 I am writing this post to clarify date comparisons in Java so that I don't have to look things up again.
 
